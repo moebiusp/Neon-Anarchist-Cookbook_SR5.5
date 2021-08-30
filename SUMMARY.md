@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [INTRO](README.md)
+
+## Gear
+
+* ['wares](gear/wares.md)
+* [Bioware](gear/bioware.md)
 
